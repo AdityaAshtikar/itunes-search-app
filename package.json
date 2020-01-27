@@ -1,8 +1,8 @@
 {
   "name": "itunes-app",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://AdityaAshtikar.github.io/itunes-search-app",
+  "private": true,
+  "homepage": "http://AdityaAshtikar.github.io/itunes-search-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
