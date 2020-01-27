@@ -9,7 +9,7 @@ class LandingWithSearch extends Component {
     render() {
 
         const { loading } = this.props;
-        console.log(loading);
+        // console.log(loading);
 
         return (
             <div className='container'>
